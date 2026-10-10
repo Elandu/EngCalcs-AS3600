@@ -22,8 +22,8 @@ dependencies = [
 ]
 
 [project.urls]
-Repository = "https://github.com/Elandu/OpenCalcs-AS3600"
-Issues = "https://github.com/Elandu/OpenCalcs-AS3600/issues"
+Repository = "https://github.com/Elandu/EngCalcs-AS3600"
+Issues = "https://github.com/Elandu/EngCalcs-AS3600/issues"
 
 [project.optional-dependencies]
 dev = [
